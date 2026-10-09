@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @rebotcs
-- 👀 I’m interested in robbing you while you sleep
-- 🌱 I’m currently learning coding duh
+- 👀 I’m interested in snails
+- 🌱 I’m coding for a better setup
 - 💞️ I’m looking to collaborate on jackass tv show
-- 📫 How to reach me ... you are in my walls
-- 😄 Pronouns: he/he/he/he/he/he/he/he/he/he/he/he/he/she/it
-- ⚡ Fun fact: they put crack in the boba
+- 😄 Pronouns: he/him/they/them
+- ⚡ Fun fact: I have no idea how to code
 
 <!---
 rebotcs/rebotcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
